@@ -2,7 +2,7 @@ i = 1
 while i < 6:
   print(i)
   i += 1
-
+print()
 
 #exit the loop when i is 3:
 i = 1
@@ -12,7 +12,7 @@ while i < 6:
     break
   i += 1
 
-
+print()
 #continue to the next iteration if i is 3:
 
 i = 0
@@ -22,7 +22,7 @@ while i < 6:
     continue
   print(i)
 
-
+print()
 #print a message once the condition is false:
 
 i = 1
