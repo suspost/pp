@@ -1,0 +1,4 @@
+Item A 10.50
+Item B 5.25
+Date: 01.01.2024
+Total: 15.75
