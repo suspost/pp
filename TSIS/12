@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice Brown",
+    "email": null,
+    "birthday": null,
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "+555123456",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@gmail.com",
+    "birthday": "1985-08-22",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "+987654321",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "birthday": "1990-05-15",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "+123456789",
+        "type": "mobile"
+      }
+    ]
+  }
+]
